@@ -19,20 +19,20 @@ namespace readCSV
         public Transaction() { }
 
         public Transaction(string horario, string conta, string tipoDeOperacao, 
-            string moedaQueEntrou, double entrou, string moedaQueSaiu, double saiu, string moedaDeTaxa,
-            double taxa, double moedaRecebidaEmReais, double moedaEnviadaEmReais)
+            string moedaQueEntrou, string entrou, string moedaQueSaiu, double saiu, string moedaDeTaxa,
+            string taxa, string moedaRecebidaEmReais, string moedaEnviadaEmReais)
         {
             Horario = horario;
             Conta = conta;
             TipoDeOperacao = tipoDeOperacao;
             MoedaQueEntrou = moedaQueEntrou;
-            Entrou = entrou;
+            Entrou = ToDouble(entrou);
             MoedaQueSaiu = moedaQueSaiu;
             Saiu = saiu;
             MoedaDeTaxa = moedaDeTaxa;
-            Taxa = taxa;
-            MoedaRecebidaEmReais = moedaRecebidaEmReais;
-            MoedaEnviadaEmReais = moedaEnviadaEmReais;
+            Taxa = ToDouble(taxa);
+            MoedaRecebidaEmReais = ToDouble(moedaRecebidaEmReais);
+            MoedaEnviadaEmReais = ToDouble(moedaEnviadaEmReais);
         }
 
         public override string ToString()

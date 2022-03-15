@@ -1,0 +1,8 @@
+C:\Users\aluno10.TSACBRRJLP041\source\repos\readCSV\readCSV\bin\Debug\readCSV.exe.config
+C:\Users\aluno10.TSACBRRJLP041\source\repos\readCSV\readCSV\bin\Debug\readCSV.exe
+C:\Users\aluno10.TSACBRRJLP041\source\repos\readCSV\readCSV\bin\Debug\readCSV.pdb
+C:\Users\aluno10.TSACBRRJLP041\source\repos\readCSV\readCSV\obj\Debug\readCSV.csproj.AssemblyReference.cache
+C:\Users\aluno10.TSACBRRJLP041\source\repos\readCSV\readCSV\obj\Debug\readCSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno10.TSACBRRJLP041\source\repos\readCSV\readCSV\obj\Debug\readCSV.csproj.CoreCompileInputs.cache
+C:\Users\aluno10.TSACBRRJLP041\source\repos\readCSV\readCSV\obj\Debug\readCSV.exe
+C:\Users\aluno10.TSACBRRJLP041\source\repos\readCSV\readCSV\obj\Debug\readCSV.pdb

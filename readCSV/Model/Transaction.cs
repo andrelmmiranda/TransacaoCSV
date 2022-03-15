@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace readCSV
+namespace readCSV.Model
 {
     public class Transaction
     {
@@ -58,7 +58,7 @@ namespace readCSV
             }
             else
             {
-               return double.Parse(value);
+                return double.Parse(value);
             }
         }
     }
